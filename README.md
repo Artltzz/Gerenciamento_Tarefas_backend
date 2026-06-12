@@ -58,7 +58,7 @@ npm install
 2. Adicione o seguinte conteúdo, substituindo a sua string de conexão do MongoDB:
 ```env
 PORT=3000
-MONGO_URI=mongodb+srv://SEU_USUARIO:SUA_SENHA@cluster.xxxx.mongodb.net/meuBanco?retryWrites=true&w=majority
+MONGO_URI= sua_string_de_conexao_do_mongodb_aqui
 
 ```
 
