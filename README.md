@@ -145,6 +145,3 @@ npx expo start
 4. Use a câmera do celular (iOS) ou a função de escanear do Expo Go (Android) para ler o QR Code do terminal.
 5. O aplicativo carregará na tela do celular pronto para cadastrar, listar, editar e deletar as tarefas em tempo real integradas com o seu MongoDB!
 
-```
-
-```
